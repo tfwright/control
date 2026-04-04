@@ -21,5 +21,3 @@
 ```
 
 I asked Claude to capture the essence of the iconic photo cover art of Janet Jackson's 1986 album _Control_ and this is what it gave me.
-
-These are some tools to deal with the software equivalents.
